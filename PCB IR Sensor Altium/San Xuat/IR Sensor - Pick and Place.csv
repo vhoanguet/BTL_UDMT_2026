@@ -1,0 +1,10 @@
+Designator,Mid X,Mid Y,Layer,Rotation,Mount,Footprint
+D1,3.1621mm,4.2271mm,Top,0,THT,D1
+D2,3.1900mm,10.8478mm,Top,0,THT,D2
+D3,32.9410mm,3.9012mm,Top,0,SMD,D3
+J1,37.7604mm,7.7559mm,Top,0,THT,J1
+R1,10.3043mm,2.4521mm,Top,0,SMD,R1
+R2,8.8514mm,6.8661mm,Top,0,SMD,R2
+R3,28.3368mm,3.9418mm,Top,0,SMD,R3
+RV1,30.9370mm,12.5344mm,Top,0,THT,RV1
+U1,19.6627mm,6.4346mm,Top,0,SMD,U1

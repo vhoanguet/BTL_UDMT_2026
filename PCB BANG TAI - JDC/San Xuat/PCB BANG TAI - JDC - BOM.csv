@@ -1,0 +1,21 @@
+﻿Ký hiệu,Linh kiện / giá trị,Kiểu lắp,Footprint PCB,SL/bo,Mã thư viện / mua hàng,Cần xác nhận
+AMS1,AMS1117,SMD,SOT223-4N,1,AMS1117,Schematic dùng ngõ ra 3V3. Chốt đúng biến thể AMS1117-3.3 và vỏ tương ứng.
+"C1, C2, C3, C4,""Tụ 100 nF (104), 50 V, 0805"",SMD,tu 0805,4,MH004551,"
+D1, D2,SS14,SMD,DIODE SMA,2,MH002211,
+H1, H2, H3, H4,Header 2P 2.54 Duc Thang,THT,XH2.54M-2,4,MH001283,
+H5, H6, H7, H8,Header 3P 2.54 Duc Thang,THT,XH2.54M-3,4,MH001292,
+JDC,Jack nguồn DC 3 chân,THT,DC0,1,DCIN,Đối chiếu jack thực tế với footprint DC0 và ba lỗ oval. Kích thước đầu cắm chưa ghi trong project.
+JP1, JP4,JP 1x4 2.54,THT,JP 1x4 DT,2,MH000903,
+JP2,JP 2x4 2.54,THT,JP 2x4 DT,1,MH002686,
+JP3,JP 1x5 2.54,THT,JP 1x5 DT,1,MH000903,
+"KF1,""Cọc vít KF301 2 chân, bước 5,08 mm"",THT,Con 2 KF301 5.08,1,MH000987,"
+L1, L2,LED 0805,SMD,LED-0805-Red,2,MH000897,
+"Q1,IRF3205,SMD,TO252-123,1,IRF3205,""Dự phòng: FQD20N06 TO252"""
+Q2, Q3,C1815,THT,TO92,2,C1815,Đối chiếu thứ tự chân trên mã mua và footprint TO-92.
+"R1, R2, R6, R11, R12,""Điện trở 10 kΩ, 0805"",SMD,tro smd 0805,5,MH005239,"
+R4, R5, R8, R13,Điện trở 1 kΩ theo schematic,SMD,tro smd 0805,4,
+SW1, SW2, SW3,SW,THT,SW2-DIP,3,SW4,Đối chiếu bước chân và chiều cao nút nhấn 4 chân.
+U1,ESP32-WROOM-32E_(4MB_HIGH_TEMP),SMD,XCVR_ESP32-WROOM-32E_(4MB_HIGH_TEMP),1,ESP32-WROOM-32E_(4MB_HIGH_TEMP),
+U2,DC DC Mini 360,THT,DC_DC_MINI360,1,DC DC Mini 360,Module DC-DC mini CN3903
+U3,PC817,THT,DIP4/W0.3,1,PC817,
+U4,CH340C,SMD,SOIC127P600X180-16N,1,CH340C,

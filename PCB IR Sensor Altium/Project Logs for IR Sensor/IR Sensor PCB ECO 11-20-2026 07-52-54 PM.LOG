@@ -1,0 +1,75 @@
+Change Component Comment : Designator=R2 Old Comment= New Comment=10k
+Change Component Comment : Designator=RV1 Old Comment= New Comment=10k
+Change Component Comment : Designator=R1 Old Comment= New Comment=100
+Change Component Comment : Designator=R3 Old Comment= New Comment=330
+Change Component Comment : Designator=D1 Old Comment= New Comment=LED
+Change Component Comment : Designator=D2 Old Comment= New Comment=LED
+Change Component Comment : Designator=D3 Old Comment= New Comment=LED
+Change Component Comment : Designator=U1 Old Comment= New Comment=LM358
+Change Component Comment : Designator=J1 Old Comment= New Comment=POWER_CON
+Change Component Library : Designator=D1 Old Library= New Library=IR Sensor.IntLib
+Change Component Library : Designator=D2 Old Library= New Library=IR Sensor.IntLib
+Change Component Library : Designator=D3 Old Library= New Library=IR Sensor.IntLib
+Change Component Library : Designator=J1 Old Library= New Library=IR Sensor.IntLib
+Change Component Library : Designator=R1 Old Library= New Library=IR Sensor.IntLib
+Change Component Library : Designator=R2 Old Library= New Library=IR Sensor.IntLib
+Change Component Library : Designator=R3 Old Library= New Library=IR Sensor.IntLib
+Change Component Library : Designator=RV1 Old Library= New Library=IR Sensor.IntLib
+Change Component Library : Designator=U1 Old Library= New Library=IR Sensor.IntLib
+Change component parameters: Designator = "D1" ("D1"); Footprint = "D1"; UniqueID = "\OQTNBPNL" ("OQTNBPNL")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "D1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "IR_SENSOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "D1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "D2"; UniqueID = "\BOJFOWML" ("BOJFOWML")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "D2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "IR_SENSOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "D2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "D3"; UniqueID = "\TVEETIWW" ("TVEETIWW")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "D3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "IR_SENSOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "D3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1" ("J1"); Footprint = "J1"; UniqueID = "\DGIBOICI" ("DGIBOICI")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "J1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "IR_SENSOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "J1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R1"; UniqueID = "\JXRYJKWW" ("JXRYJKWW")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "R1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "IR_SENSOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R2"; UniqueID = "\DGCTUOHD" ("DGCTUOHD")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "R2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "IR_SENSOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R3"; UniqueID = "\BILFECYP" ("BILFECYP")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "R3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "IR_SENSOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RV1" ("RV1"); Footprint = "RV1"; UniqueID = "\BAVOGWWX" ("BAVOGWWX")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "RV1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "IR_SENSOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "RV1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "U1"; UniqueID = "\JNGMAUFO" ("JNGMAUFO")
+Change component parameters (AddParameter): Name = "+"; Value = "+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "-"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "U1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "IR_SENSOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "U1"; VariantName = "[No Variations]"
+Added Class: Name=IR Sensor
